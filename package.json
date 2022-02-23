@@ -1,9 +1,9 @@
 {
-    "name": "@1inch/farming",
+    "name": "farming",
     "version": "1.0.1",
     "description": "Set of contracts for farming incentives",
     "homepage": "https://github.com/1inch/farming#readme",
-    "author": "1inch",
+    "author": "sevenswen",
     "files": [
         "/contracts/**/*.sol",
         "/artifacts/contracts/**/*.json",
